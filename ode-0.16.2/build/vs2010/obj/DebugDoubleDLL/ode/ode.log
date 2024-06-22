@@ -1,0 +1,139 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  IceUtils.cpp
+  IceTriangle.cpp
+  IceSegment.cpp
+  IceRevisitedRadix.cpp
+  IceRay.cpp
+  IceRandom.cpp
+  IcePoint.cpp
+  IcePlane.cpp
+  IceOBB.cpp
+  IceMatrix4x4.cpp
+  IceMatrix3x3.cpp
+  IceIndexedTriangle.cpp
+  IceHPoint.cpp
+  IceContainer.cpp
+E:\Raylib\raylib-4.0.0\rlOde\ode-0.16.2\OPCODE\Ice\IceContainer.cpp(55,123): warning C4244: 'initializing': conversion from 'float' to 'udword', possible loss of data
+  IceAABB.cpp
+  OPC_VolumeCollider.cpp
+  OPC_TreeCollider.cpp
+  OPC_TreeBuilders.cpp
+  OPC_SphereCollider.cpp
+  OPC_RayCollider.cpp
+  Generating Code...
+  Compiling...
+  OPC_PlanesCollider.cpp
+  OPC_Picking.cpp
+  OPC_OptimizedTree.cpp
+  OPC_OBBCollider.cpp
+  OPC_Model.cpp
+  OPC_MeshInterface.cpp
+  OPC_LSSCollider.cpp
+  OPC_HybridModel.cpp
+  OPC_Common.cpp
+  OPC_Collider.cpp
+  OPC_BaseModel.cpp
+  OPC_AABBTree.cpp
+  OPC_AABBCollider.cpp
+  Opcode.cpp
+  threadlocalstorage.cpp
+  malloc.cpp
+  customization.cpp
+  atomic.cpp
+  util.cpp
+  timer.cpp
+  Generating Code...
+  Compiling...
+  threading_pool_win.cpp
+  threading_pool_posix.cpp
+  threading_impl.cpp
+  threading_base.cpp
+  step.cpp
+  sphere.cpp
+  simple_cooperative.cpp
+  rotation.cpp
+  resource_control.cpp
+  ray.cpp
+  quickstep.cpp
+  plane.cpp
+  odetls.cpp
+  odeou.cpp
+  odemath.cpp
+  odeinit.cpp
+  ode.cpp
+  obstack.cpp
+  objects.cpp
+  misc.cpp
+  Generating Code...
+  Compiling...
+  memory.cpp
+  matrix.cpp
+  mat.cpp
+  mass.cpp
+  lcp.cpp
+  heightfield.cpp
+  fastvecscale.cpp
+  fastltsolve.cpp
+  fastlsolve.cpp
+  fastldltsolve.cpp
+  fastldltfactor.cpp
+  fastdot.cpp
+  export-dif.cpp
+  error.cpp
+  default_threading.cpp
+  cylinder.cpp
+  convex.cpp
+  collision_util.cpp
+  collision_trimesh_trimesh_old.cpp
+  collision_trimesh_trimesh.cpp
+  Generating Code...
+  Compiling...
+  collision_trimesh_sphere.cpp
+E:\Raylib\raylib-4.0.0\rlOde\ode-0.16.2\ode\src\collision_trimesh_sphere.cpp(276,22): warning C4244: '=': conversion from 'dReal' to 'float', possible loss of data
+  collision_trimesh_ray.cpp
+E:\Raylib\raylib-4.0.0\rlOde\ode-0.16.2\ode\src\collision_trimesh_ray.cpp(59,25): warning C4244: 'argument': conversion from 'dReal' to 'float', possible loss of data
+  collision_trimesh_plane.cpp
+  collision_trimesh_opcode.cpp
+  collision_trimesh_internal.cpp
+  collision_trimesh_disabled.cpp
+  collision_trimesh_ccylinder.cpp
+  collision_trimesh_box.cpp
+  collision_transform.cpp
+  collision_space.cpp
+  collision_sapspace.cpp
+  collision_quadtreespace.cpp
+  collision_kernel.cpp
+  collision_cylinder_trimesh.cpp
+  collision_cylinder_sphere.cpp
+  collision_cylinder_plane.cpp
+  collision_cylinder_box.cpp
+  collision_convex_trimesh.cpp
+  capsule.cpp
+  box.cpp
+  Generating Code...
+  Compiling...
+  array.cpp
+  universal.cpp
+  transmission.cpp
+  slider.cpp
+  pu.cpp
+  pr.cpp
+  plane2d.cpp
+  piston.cpp
+  null.cpp
+  lmotor.cpp
+  joint.cpp
+  hinge2.cpp
+  hinge.cpp
+  fixed.cpp
+  dhinge.cpp
+  dball.cpp
+  contact.cpp
+  ball.cpp
+  amotor.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  nextafterf.c
+     Creating library ..\..\lib\DebugDoubleDLL\ode_doubled.lib and object ..\..\lib\DebugDoubleDLL\ode_doubled.exp
+  ode.vcxproj -> E:\Raylib\raylib-4.0.0\rlOde\ode-0.16.2\lib\DebugDoubleDLL\ode_doubled.dll
+  ode.vcxproj -> ..\..\lib\DebugDoubleDLL\ode_doubled.pdb (Full PDB)

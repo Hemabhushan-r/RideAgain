@@ -1,0 +1,81 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl GEN4DR_INTERIOR
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd AmericanMuscle\\source\\Textures\\GEN4DR_INTERIOR_dif.png
+
+newmtl GENERIC_BADGES
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd AmericanMuscle\\source\\Textures\\GENERIC_BADGES_DIF.png
+
+newmtl Numberplates
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd AmericanMuscle\\source\\Textures\\Numberplates_dif.png
+map_d AmericanMuscle\\source\\Textures\\Numberplates_dif.png
+
+newmtl Riverside88_lights
+Ns 278.576137
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.930000
+illum 6
+map_Bump AmericanMuscle\\source\\Textures\\Riverside88_lights_nrm.png
+map_Kd AmericanMuscle\\source\\Textures\\Riverside88_lights_dif.png
+
+newmtl UCB_BOTTOM
+Ns 64.980168
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump AmericanMuscle\\source\\Textures\\UCB_BOTTOM_nrm.png
+map_Kd AmericanMuscle\\source\\Textures\\UCB_BOTTOM_DIF.png
+
+newmtl UCB_GLASS_CLEAN
+Ns 113.137072
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.310000
+illum 6
+map_Kd AmericanMuscle\\source\\Textures\\UCB_GLASS_CLEAN_dif.png
+
+newmtl body
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.301961 0.301961 0.301961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1

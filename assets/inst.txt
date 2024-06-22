@@ -1,0 +1,11 @@
+You are a factory worker.
+Raw materials get produced during the gameplay, collect the falling materials using a mouse-controlled cart.
+Right click on processor to empty the cart and gain points.
+Sometimes the processor gets jammed. use the scroll wheel to crank the processor gears.
+Click 'O' to toggle shop mode.
+Here you can spend earnt points to get upgrades or buy lives.
+Your goal is to not let the materials drop to ground.
+Be careful about the falling bomb , avoid it at all costs.
+Upgrade your cart capacity in the shop to go to higher levels.
+
+Music by Psychronic from pixabay.

@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Building
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd E:\\MOdels\\New Folder\\textures\\Building_baseColor.png
+
+newmtl Doors
+Ns 44.799992
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\MOdels\\New Folder\\textures\\Doors_baseColor.png
+
+newmtl Elephant
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\MOdels\\New Folder\\textures\\Elephant_normal.png
+map_Kd E:\\MOdels\\New Folder\\textures\\Elephant_baseColor.png
+
+newmtl Water
+Ns 489.999983
+Ka 0.400000 0.400000 0.400000
+Kd 0.291431 0.422005 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.300000
+illum 6

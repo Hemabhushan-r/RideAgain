@@ -1,0 +1,1 @@
+gcc rda.c -o game.exe -O1 -Wfatal-errors -pedantic -Wextra  -Wall -std=c99 -Wno-missing-braces -I ./ode-0.16.2/include/ -I include/ -L ./ode-0.16.2/ode/src/.libs/ -lode_doubled -lm -pthread -lstdc++ -L lib/ -lraylib -lopengl32 -lgdi32 -lwinmm

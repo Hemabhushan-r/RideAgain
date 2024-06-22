@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  windows.cpp
+  drawstuff.cpp
+  Generating Code...
+     Creating library ..\..\lib\DebugDoubleDLL\drawstuffd.lib and object ..\..\lib\DebugDoubleDLL\drawstuffd.exp
+  drawstuff.vcxproj -> E:\Raylib\raylib-4.0.0\rlOde\ode-0.16.2\lib\DebugDoubleDLL\drawstuffd.dll
+  drawstuff.vcxproj -> ..\..\lib\DebugDoubleDLL\drawstuffd.pdb (Full PDB)

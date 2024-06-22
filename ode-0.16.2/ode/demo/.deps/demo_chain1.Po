@@ -1,0 +1,106 @@
+demo_chain1.o: demo_chain1.c C:/msys64/mingw64/include/stdio.h \
+ C:/msys64/mingw64/include/corecrt_stdio_config.h \
+ C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
+ C:/msys64/mingw64/include/_mingw_mac.h \
+ C:/msys64/mingw64/include/_mingw_secapi.h \
+ C:/msys64/mingw64/include/vadefs.h \
+ C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/include/_mingw_off_t.h \
+ C:/msys64/mingw64/include/swprintf.inl \
+ C:/msys64/mingw64/include/sec_api/stdio_s.h ../../include/ode/ode.h \
+ ../../include/ode/odeconfig.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/msys64/mingw64/include/limits.h C:/msys64/mingw64/include/stdlib.h \
+ C:/msys64/mingw64/include/corecrt_wstdlib.h \
+ C:/msys64/mingw64/include/sec_api/stdlib_s.h \
+ C:/msys64/mingw64/include/malloc.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h \
+ C:/msys64/mingw64/include/errno.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h \
+ C:/msys64/mingw64/include/stdarg.h \
+ C:/msys64/mingw64/include/_mingw_stdarg.h \
+ C:/msys64/mingw64/include/math.h C:/msys64/mingw64/include/string.h \
+ C:/msys64/mingw64/include/sec_api/string_s.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/float.h \
+ C:/msys64/mingw64/include/float.h ../../include/ode/precision.h \
+ ../../include/ode/compatibility.h ../../include/ode/common.h \
+ ../../include/ode/error.h ../../include/ode/odeinit.h \
+ ../../include/ode/contact.h ../../include/ode/memory.h \
+ ../../include/ode/odemath.h ../../include/ode/odemath_legacy.h \
+ ../../include/ode/matrix.h ../../include/ode/matrix_coop.h \
+ ../../include/ode/cooperative.h ../../include/ode/threading.h \
+ C:/msys64/mingw64/include/time.h C:/msys64/mingw64/include/sys/timeb.h \
+ C:/msys64/mingw64/include/sec_api/sys/timeb_s.h \
+ C:/msys64/mingw64/include/_timeval.h \
+ C:/msys64/mingw64/include/pthread_time.h ../../include/ode/timer.h \
+ ../../include/ode/rotation.h ../../include/ode/mass.h \
+ ../../include/ode/misc.h ../../include/ode/objects.h \
+ ../../include/ode/collision_space.h ../../include/ode/collision.h \
+ ../../include/ode/collision_trimesh.h ../../include/ode/threading_impl.h \
+ ../../include/ode/export-dif.h ../../include/ode/version.h \
+ ../../include/drawstuff/drawstuff.h ../../include/drawstuff/version.h \
+ texturepath.h
+C:/msys64/mingw64/include/stdio.h:
+C:/msys64/mingw64/include/corecrt_stdio_config.h:
+C:/msys64/mingw64/include/corecrt.h:
+C:/msys64/mingw64/include/_mingw.h:
+C:/msys64/mingw64/include/_mingw_mac.h:
+C:/msys64/mingw64/include/_mingw_secapi.h:
+C:/msys64/mingw64/include/vadefs.h:
+C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
+C:/msys64/mingw64/include/_mingw_off_t.h:
+C:/msys64/mingw64/include/swprintf.inl:
+C:/msys64/mingw64/include/sec_api/stdio_s.h:
+../../include/ode/ode.h:
+../../include/ode/odeconfig.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h:
+C:/msys64/mingw64/include/stddef.h:
+C:/msys64/mingw64/include/crtdefs.h:
+C:/msys64/mingw64/include/limits.h:
+C:/msys64/mingw64/include/stdlib.h:
+C:/msys64/mingw64/include/corecrt_wstdlib.h:
+C:/msys64/mingw64/include/sec_api/stdlib_s.h:
+C:/msys64/mingw64/include/malloc.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h:
+C:/msys64/mingw64/include/errno.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdarg.h:
+C:/msys64/mingw64/include/stdarg.h:
+C:/msys64/mingw64/include/_mingw_stdarg.h:
+C:/msys64/mingw64/include/math.h:
+C:/msys64/mingw64/include/string.h:
+C:/msys64/mingw64/include/sec_api/string_s.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/float.h:
+C:/msys64/mingw64/include/float.h:
+../../include/ode/precision.h:
+../../include/ode/compatibility.h:
+../../include/ode/common.h:
+../../include/ode/error.h:
+../../include/ode/odeinit.h:
+../../include/ode/contact.h:
+../../include/ode/memory.h:
+../../include/ode/odemath.h:
+../../include/ode/odemath_legacy.h:
+../../include/ode/matrix.h:
+../../include/ode/matrix_coop.h:
+../../include/ode/cooperative.h:
+../../include/ode/threading.h:
+C:/msys64/mingw64/include/time.h:
+C:/msys64/mingw64/include/sys/timeb.h:
+C:/msys64/mingw64/include/sec_api/sys/timeb_s.h:
+C:/msys64/mingw64/include/_timeval.h:
+C:/msys64/mingw64/include/pthread_time.h:
+../../include/ode/timer.h:
+../../include/ode/rotation.h:
+../../include/ode/mass.h:
+../../include/ode/misc.h:
+../../include/ode/objects.h:
+../../include/ode/collision_space.h:
+../../include/ode/collision.h:
+../../include/ode/collision_trimesh.h:
+../../include/ode/threading_impl.h:
+../../include/ode/export-dif.h:
+../../include/ode/version.h:
+../../include/drawstuff/drawstuff.h:
+../../include/drawstuff/version.h:
+texturepath.h:

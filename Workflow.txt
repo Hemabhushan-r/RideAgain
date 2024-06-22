@@ -1,0 +1,26 @@
+1.Game Mechanics
+	Car Motion
+		Adjust Steering Sensitivity
+		Adjust Speed
+		
+	Car Models
+		Use approx physics model for realistic 3D model
+	Path Follow AI(Car)
+		Path tracking
+		Collision Avoiding
+2.Game Screen Manager
+	Splash Screen(s)
+		Raylib 3D Intro
+		OpenDE Intro
+	Main Menu(BG-Try Video Texture)
+		Story Mode(Optional)
+			Choose Player(Jump Screen)
+			s
+		Race Mode(Dual)
+			Map 1
+		Free Ride
+		Options
+		Exit
+
+		
+	
